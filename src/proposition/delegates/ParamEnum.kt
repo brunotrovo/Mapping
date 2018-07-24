@@ -1,6 +1,6 @@
-package delegates
+package proposition.delegates
 
-import RawSafe
+import proposition.RawSafe
 import kotlin.reflect.KProperty
 
 class ParamEnum(private val listOfValues: List<String>) {
